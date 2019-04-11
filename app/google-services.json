@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575400063213",
+    "firebase_url": "https://travel-share-9278e.firebaseio.com",
+    "project_id": "travel-share-9278e",
+    "storage_bucket": "travel-share-9278e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575400063213:android:d040c3e4b5f9cd22",
+        "android_client_info": {
+          "package_name": "com.gbtrip.org.travel_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575400063213-7rv4o6ufc4jn0b5ns17s1jiu1qbodgag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbtrip.org.travel_share",
+            "certificate_hash": "08bc2b646bfd8298fecd9d30c66413ced8290d3f"
+          }
+        },
+        {
+          "client_id": "575400063213-1t1utco5tole0cj0ln9p0s8q61qb8a8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqx2SR7haHgpg16PJnuf0kEsyO9sakat8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575400063213-1t1utco5tole0cj0ln9p0s8q61qb8a8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
